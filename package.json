@@ -12,5 +12,6 @@
   "preferGlobal": "true",
   "directories": {
     "bin": "./bin"
-  }
+  },
+  "repository": "timbroddin/image-to-console"
 }
